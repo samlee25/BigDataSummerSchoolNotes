@@ -1,0 +1,10 @@
+Git is really useful for version control to save individual changes to a code or document. Which I know I could really start getting into the habit of doing. 
+I should also really start annotating my code in a useful way.
+Things we learned today:
+1. git init to start git
+2. git status to check the status of any files
+3. git add to add a file/its changes to the staging area of git
+4. git commit to add the file/its changes to the full repository
+5. git commit -m to add a short, specigic message about the purpose of any changes
+
+Sam Lee 07/08/20
