@@ -1,0 +1,2 @@
+I'm still not entirely sure what vim is or what is it used for besides creating and editing .txt files, but it seems interesting so far! We have learned how to open a .txt file, switch between modes (command, normal, insert, and visual), which mode to use for inserting text and which mode to use for entering commands like save and quit. We have also learned how to turn on syntax highlighting and how to add a ruler to see the line/character count. I would like to learn more about the scope of vim and what key things it can be used for. 
+Sam Lee 07/07/2020
